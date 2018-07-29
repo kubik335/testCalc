@@ -1,3 +1,5 @@
+package api;
+
 import org.junit.Test;
 import com.eviware.soapui.tools.SoapUIMockServiceRunner;
 import com.eviware.soapui.tools.SoapUITestCaseRunner;
