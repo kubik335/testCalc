@@ -1,0 +1,35 @@
+2018-07-29 21:45:42,617 WARN  [SoapUI] Missing folder [C:\development\ataccama\testCalc\.\ext] for external libraries
+2018-07-29 21:45:43,090 INFO  [DefaultSoapUICore] initialized soapui-settings from [C:\Users\Александра\soapui-settings.xml]
+2018-07-29 21:45:44,012 INFO  [WsdlProject] Loaded project from [file:/C:/development/ataccama/testCalc/src/main/resources/soap/testCalc-soapui-project.xml]
+2018-07-29 21:45:44,033 WARN  [WsdlProject] Project 'testCalc' is from a newer version (5.2.1) of soapUI than this (4.0.1) and parts of it may be incompatible or incorrect. Saving this project with this version of soapUI may cause it to function differently.
+2018-07-29 21:45:45,090 INFO  [SoapUIMockServiceRunner] Running all MockServices in project [testCalc]
+2018-07-29 21:45:45,091 INFO  [SoapUIMockServiceRunner] Press any key to terminate
+2018-07-29 21:45:45,091 INFO  [SoapUIMockServiceRunner] Started 0 runners
+2018-07-29 21:45:45,091 INFO  [SoapUIMockServiceRunner] time taken: 0ms
+2018-07-29 21:45:45,095 INFO  [WsdlProject] Loaded project from [file:/C:/development/ataccama/testCalc/src/main/resources/soap/testCalc-soapui-project.xml]
+2018-07-29 21:45:45,096 WARN  [WsdlProject] Project 'testCalc' is from a newer version (5.2.1) of soapUI than this (4.0.1) and parts of it may be incompatible or incorrect. Saving this project with this version of soapUI may cause it to function differently.
+2018-07-29 21:45:45,120 INFO  [SoapUITestCaseRunner] Running soapUI tests in project [testCalc]
+2018-07-29 21:45:45,123 INFO  [SoapUITestCaseRunner] Running Project [testCalc], runType = SEQUENTIAL
+2018-07-29 21:45:45,141 INFO  [SoapUITestCaseRunner] Running soapUI testcase [CalcOperationsTest]
+2018-07-29 21:45:45,152 INFO  [SoapUITestCaseRunner] running step [Variables]
+2018-07-29 21:45:45,713 INFO  [log] 871939706
+2018-07-29 21:45:45,714 INFO  [log] 2125778158
+2018-07-29 21:45:45,739 INFO  [log] -1297249432
+2018-07-29 21:45:45,794 INFO  [SoapUITestCaseRunner] running step [Addition]
+2018-07-29 21:45:46,148 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2018-07-29 21:45:46,148 INFO  [SoapUITestCaseRunner] Assertion [Valid HTTP Status Codes] has status VALID
+2018-07-29 21:45:46,148 INFO  [SoapUITestCaseRunner] Assertion [Contains] has status VALID
+2018-07-29 21:45:46,148 INFO  [SoapUITestCaseRunner] running step [Subtraction]
+2018-07-29 21:45:46,162 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2018-07-29 21:45:46,162 INFO  [SoapUITestCaseRunner] Assertion [Valid HTTP Status Codes] has status VALID
+2018-07-29 21:45:46,162 INFO  [SoapUITestCaseRunner] Assertion [Contains] has status VALID
+2018-07-29 21:45:46,162 INFO  [SoapUITestCaseRunner] running step [Division]
+2018-07-29 21:45:46,172 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2018-07-29 21:45:46,172 INFO  [SoapUITestCaseRunner] Assertion [Valid HTTP Status Codes] has status VALID
+2018-07-29 21:45:46,172 INFO  [SoapUITestCaseRunner] Assertion [Contains] has status VALID
+2018-07-29 21:45:46,173 INFO  [SoapUITestCaseRunner] running step [Multiplication]
+2018-07-29 21:45:46,183 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2018-07-29 21:45:46,183 INFO  [SoapUITestCaseRunner] Assertion [Valid HTTP Status Codes] has status VALID
+2018-07-29 21:45:46,183 INFO  [SoapUITestCaseRunner] Assertion [Contains] has status VALID
+2018-07-29 21:45:46,183 INFO  [SoapUITestCaseRunner] Finished running soapUI testcase [CalcOperationsTest], time taken: 1011ms, status: FINISHED
+2018-07-29 21:45:46,184 INFO  [SoapUITestCaseRunner] Project [testCalc] finished with status [FINISHED] in 1054ms
